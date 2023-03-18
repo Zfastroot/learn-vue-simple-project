@@ -23,3 +23,14 @@
    * Delete button for todo
    * Watch todos for changes and save to localStorage
    * Load todos from localStorage on page load
+
+**Reddit Clone**
+   * Generate App with ROUTER
+   * add bootswatch
+   * fetch post from reddit
+   * Add post to page
+   * Make the post look kind of like reddit!
+   * Add favorite button to post
+   * Add favorites page to show favorites
+   * Save favorites to localStorage
+   * Load favorites on page load
